@@ -3,7 +3,7 @@ Projekt 3
 
 Autor - Ondřej Charvát
 Email: ondrej.charvat05@gmai.com
-Discord: ne6r H8ter
+
 """
 
 import requests
